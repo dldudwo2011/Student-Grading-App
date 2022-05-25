@@ -1,4 +1,4 @@
-# StudentGradingApp
+# Student-Grading-App
 
 Console App
 
